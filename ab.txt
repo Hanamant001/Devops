@@ -2,10 +2,7 @@ helllkilojkjoloo
 hellooo
 hi
 hello
-<<<<<<< HEAD
 had hello
-=======
 dev2 changes
 hello
->>>>>>> fdd9c840ce580ed7dee75eeec6c055e110140f76
 dev 1
