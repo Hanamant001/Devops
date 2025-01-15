@@ -6,4 +6,8 @@ had hello
 dev2 changes
 hello
 dev 1
+<<<<<<< HEAD
 jjjjjhello hdfghjkli
+=======
+hdjfjnnfhfhfrhdhdrrrrrrrrrrrrhdhhehehehehehehjjjjjhello hi
+>>>>>>> 1.0
